@@ -3,11 +3,11 @@
 <h1 align="center">Oi👋, Eu sou a Isabela</h1>
 <h3 align="center">Estudante de Física pela Universidade Federal de Minas Gerais e Desenvolvedora de Chatbots pela D1</h3>
 
-- 🌱 Estou aprendendo atualmente **Python, Typescript, AWS**
+- 🌱 Estou aprendendo atualmente **Python, Typescript, AWS e na reta da final da faculdade!**
 
-- 👯 Posso colaborar **em projetos de desenvolvimento quanto de pesquisas na área da Física**
+- 👯 Posso colaborar **em projetos de desenvolvimento quanto de pesquisas  e ensino na área da Física**
 
-- 💬 Pergunte-me sobre **JS, Node.js, Json, Postman, MySql**
+- 💬 Pergunte-me sobre **JS, Node.js, Json, Postman, MySql** e também sobre **a Lua, fenômenos físicos, quântica e pela minha outra paixão: a física nuclear**
 
 - 📫Meu e-mail de contato: **isabela.a.cardoso@hotmail.com**
 
