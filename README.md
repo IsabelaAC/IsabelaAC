@@ -3,7 +3,7 @@
 <h1 align="center">Oi👋, Eu sou a Isabela</h1>
 <h3 align="center">Estudante de Física pela Universidade Federal de Minas Gerais e Desenvolvedora de Chatbots pela D1</h3>
 
-- 🌱 Estou aprendendo atualmente **React** e na reta da final da faculdade!**
+- 🌱 Estou aprendendo atualmente **Ruby** e na reta da final da faculdade!**
 
 - 👯 Posso colaborar **em projetos de desenvolvimento quanto de pesquisas  e ensino na área da Física**
 
