@@ -11,8 +11,6 @@
 
 - 📫Meu e-mail de contato: **isabela.a.cardoso@hotmail.com**
 
-- 📄 Currículo: [Clica aqui!](https://docs.google.com/document/d/12r-NsA2VaL7Bl6Y3RaV952zMJ2UZh3NvesjgY-S0fkA/edit?usp=sharing)
-
 - ⚡ Um fato sobre mim: **Sou apaixonada por Livros!**
 
 <h3 align="left">Connect with me:</h3>
