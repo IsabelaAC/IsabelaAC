@@ -3,7 +3,7 @@
 <h1 align="center">Oi👋, Eu sou a Isabela</h1>
 <h3 align="center">Estudante de Física pela Universidade Federal de Minas Gerais e Desenvolvedora Backend na Foxbit </h3>
 
-- 🌱 Estou aprendendo atualmente **Ruby** e na reta da final da faculdade!**
+- 🌱 Estou aprendendo atualmente **Ruby** e na reta da final da faculdade!
 
 - 👯 Posso colaborar **em projetos de desenvolvimento quanto de pesquisas  e ensino na área da Física**
 
@@ -11,7 +11,6 @@
 
 - 📫Meu e-mail de contato: **isabela.a.cardoso@hotmail.com**
 
-- ⚡ Um fato sobre mim: **Sou apaixonada por Livros!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
