@@ -7,7 +7,6 @@
 
 - 👯 Posso colaborar **em projetos de desenvolvimento quanto de pesquisas  e ensino na área da Física**
 
-- 💬 Pergunte-me sobre **JS, Node.js, Json, Postman, MySql, Python, Typescript, AWS** e também sobre **a Lua, fenômenos físicos, quântica e pela minha outra paixão: a física nuclear**
 
 - 📫Meu e-mail de contato: **isabela.a.cardoso@hotmail.com**
 
