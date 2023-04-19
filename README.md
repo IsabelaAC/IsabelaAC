@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Oi👋, Eu sou a Isabela</h1>
+<h1 align="center">Oi, Eu sou a Isabela</h1>
 <h3 align="center">Estudante de Física pela Universidade Federal de Minas Gerais e Desenvolvedora Backend </h3>
 
 
