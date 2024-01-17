@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Oi, Eu sou a Isabela</h1>
-<h3 align="center">Estudante de Física pela Universidade Federal de Minas Gerais e Desenvolvedora Backend </h3>
+<h3 align="center">Bacharel em Física pela Universidade Federal de Minas Gerais e Desenvolvedora Backend </h3>
 
 
 - 👯 Posso colaborar **em projetos de desenvolvimento quanto de pesquisas  e ensino na área da Física**
