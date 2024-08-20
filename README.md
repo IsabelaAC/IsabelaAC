@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Oi, Eu sou a Isabela</h1>
-<h3 align="center">Bacharel em Física pela Universidade Federal de Minas Gerais e Desenvolvedora Backend </h3>
+<h3 align="center">Bacharel em Física pela Universidade Federal de Minas Gerais, Mestranda em Acústica Submarina pela Marinha do Brasil e Desenvolvedora Backend </h3>
 
 
-- 👯 Posso colaborar **em projetos de desenvolvimento quanto de pesquisas  e ensino na área da Física**
+- 👯 Posso colaborar **em projetos de desenvolvimento, de análise e ciência de dados além de projetos aplicados na área da Física**
 
 
 - 📫Meu e-mail de contato: **isabela.a.cardoso@hotmail.com**
