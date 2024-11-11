@@ -4,10 +4,10 @@
 <h3 align="center">Bacharel em Física pela Universidade Federal de Minas Gerais, Mestranda em Acústica Submarina pela Marinha do Brasil e Desenvolvedora Backend </h3>
 
 
-- 👯 Posso colaborar **em projetos de desenvolvimento, de análise e ciência de dados além de projetos aplicados na área da Física**
+- 👯 Posso colaborar **em projetos de desenvolvimento backend, análise e ciência de dados além de projetos aplicados na área da Física**
 
 
-- 📫Meu e-mail de contato: **isabela.a.cardoso@hotmail.com**
+- 📫Meu e-mail de contato: **isabela.a.cardoso@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
